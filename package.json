@@ -1,0 +1,13 @@
+{
+  "name": "aza-federal",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AZA Federal — JV marketing site (static, Cloudflare Workers)",
+  "scripts": {
+    "dev": "wrangler dev --local",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3"
+  }
+}
