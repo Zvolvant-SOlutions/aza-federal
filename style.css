@@ -71,8 +71,7 @@ section{scroll-margin-top:72px}
 .band-lede{color:#c2d2ea;font-size:17px;max-width:680px;margin-bottom:34px}
 .flow{list-style:none;display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
 .flow li{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:18px 16px}
-.flow span{font-size:13px;font-weight:800;color:var(--cyan)}
-.flow b{display:block;font-size:16px;margin:8px 0 4px}
+.flow b{display:block;font-size:16px;margin:0 0 4px}
 .flow em{font-style:normal;font-size:13px;color:#a9bbd6}
 
 /* Partners */
